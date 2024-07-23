@@ -1,0 +1,1 @@
+<img src="{{ asset('site/project_logo.png') }}" alt="{{ config('app.name') }} Logo" class="brand-image elevation" width="150px;" style="margin-top: 0px !important;">
